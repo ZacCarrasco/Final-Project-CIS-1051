@@ -6,8 +6,8 @@ Create a Code in Python that allow the user to imput a file into the code which 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+N/A
 
 ## Do you have any questions of your own?
 
-TODO
+Not at this moment. Though I am very confused as to how GitHUB is going to work with me coding in python Idle. Unless I am not allowed to?

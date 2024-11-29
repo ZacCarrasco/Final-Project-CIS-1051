@@ -10,7 +10,7 @@ TODO
 
 #### Project title
 
-TODO
+Pointless Wingdings Translater
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have stared the project and am making slow progress. So far I can get it to work for one letter but not for words or a series of words
 
 #### What have you not done for your project yet?
 
-TODO
+I have not be able to get it to work with sentences
 
 #### What problems, if any, have you encountered?
 
-TODO
+getting the translation to work for words.
